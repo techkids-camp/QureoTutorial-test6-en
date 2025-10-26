@@ -5,7 +5,7 @@
 namespace hiragana_agent {
 
     //% blockId=hiragana_agent_8
-    //% block="agent teleport to player TEST6 SUCCESS2"
+    //% block="agent teleport to player TEST6 SUCCESS3"
     export function teleportToPlayer(): void {
         agent.teleportToPlayer();
     }
