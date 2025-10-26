@@ -152,7 +152,8 @@
         "car.md",
         "modanHouse.md",
         "autoDoor.md",
-        "jetcoaster.md"
+        "jetcoaster.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "targetVersions": {
